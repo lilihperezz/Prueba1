@@ -24,7 +24,8 @@ Pseudocódigo para identificar si un número es negativo o positivo mediante Jav
 1. INICIO
 2. Ingresar un número.
 3. ¿numero<0?
-4. Sí,"Negativo"
-4.1 No,""Positivo"
+3.1 Sí,"Negativo"		
+3.2 No,"Positivo"
+4.Imprimir resultado
 
 ![alt txt]()
